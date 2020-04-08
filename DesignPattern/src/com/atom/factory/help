@@ -1,0 +1,10 @@
+Properties:
+String getProperty(String key);
+void setProperty(String key,String value);
+void list(PrintStream out)	//属性打印
+void load(InputStream inStream)		//从输入流中取出全部的属性内容
+void loadFromXML(InputStream in);
+void store(OutputStream out)
+void storeToXML(OutputStream out, String comment)
+void storeToXML(OutputStream out, String comment,String encoding)
+

@@ -1,0 +1,5 @@
+• 开发中应用场景：
+– StringBuilder类的append方法
+– SQL中的PreparedStatement
+– JDOM中，DomBuilder、SAXBuilder
+一般开发一个比较复杂的产品时才会用到
